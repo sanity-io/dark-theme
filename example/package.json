@@ -23,7 +23,8 @@
     "@sanity/desk-tool": "^0.108.10",
     "@sanity/google-maps-input": "^0.108.10",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "sanity-plugin-dark-theme": "^0.0.1"
   },
   "devDependencies": {}
 }
