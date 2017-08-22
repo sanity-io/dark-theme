@@ -6,5 +6,5 @@ Plugin for [Sanity](https://sanity.io) which overrides CSS, making the UI dark.
 
 ```
 cd my-sanity-studio
-sanity install unicorn-slider
+sanity install dark-theme
 ```
